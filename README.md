@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size: 3em; font-weight: bold;">Hi 👋, I'm Achal Vishnoi</h1>
 <h3 align="center" style="font-size: 2em; font-weight: bold;">A passionate Kotlin/Java developer and hyper realastic sketch artist from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/200.webp?cid=ecf05e47bbv7tu24u5em9c2zstz6qau7aodyr53eg7yw2ror&ep=v1_gifs_related&rid=200.webp&ct=g">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya1729&label=Profile%20views&color=0e75b6&style=flat" alt="kavya1729" /> </p>
 
