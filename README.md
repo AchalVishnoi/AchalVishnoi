@@ -1,5 +1,7 @@
 
-<img src="https://giffiles.alphacoders.com/222/222829.gif" alt="👋 Namaste, my name is Kavya Mittal" style="width: 100%; height: auto; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://giffiles.alphacoders.com/222/222829.gif" alt="👋 Namaste, my name is Achal Vishnoi" style="width: 100%; height: auto; display: inline-block;" data-target="animated-image.originalImage">
+<h1 align="center" style="font-size: 3em; font-weight: bold;">Hi 👋, I'm Achal Vishnoi</h1>
+<h3 align="center" style="font-size: 2em; font-weight: bold;">A passionate Kotlin/Java developer and hyper realastic sketch artist from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/200.webp?cid=ecf05e47bbv7tu24u5em9c2zstz6qau7aodyr53eg7yw2ror&ep=v1_gifs_related&rid=200.webp&ct=g">
 
