@@ -1,12 +1,43 @@
 
 <img src="https://giffiles.alphacoders.com/222/222829.gif" alt="👋 Namaste, my name is Kavya Mittal" style="width: 100%; height: auto; display: inline-block;" data-target="animated-image.originalImage">
 
-# 💫 About Me:
-🚀 Kotlin Multiplatform Developer building scalable apps with clean MVI/MVVM architecture<br>🧠 Competitive programmer with a strong grip on DSA and problem-solving<br>🎨 Self-taught hyper-realistic sketch artist — precision in art, discipline in code<br>💬 Ask me about Kotlin, Android, KMP, APIs, and clean architecture<br><br>⚡ Fun fact: I approach debugging the same way I sketch — patiently, layer by layer
+<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/200.webp?cid=ecf05e47bbv7tu24u5em9c2zstz6qau7aodyr53eg7yw2ror&ep=v1_gifs_related&rid=200.webp&ct=g">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya1729&label=Profile%20views&color=0e75b6&style=flat" alt="kavya1729" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/artist_achal_vishnoi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achalvishnoi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnoiachal174@gmail.com) 
+- 🔭 **I’m currently working on:** Multiplayer Spade game
+- 🌱 **I’m currently learning:** Kotlin Multiplatform and java spring boot development
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** vishnoiachal174@gmail.com
+- ⚡ **Fun fact:** From shading sketches to shaping software, details are my playground
+
+<h3 align="left" style="font-size: 1.5em; font-weight: bold;">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/achalvishnoi/" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mittalkavya" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/artist_achal_vishnoi/" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_kavya1729" height="30" width="40" />
+  </a>
+
+  <a href="https://codeforces.com/profile/AchalVishnoi" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr.mittal" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/MrIshuArtist/" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_kavya1729" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/vishnoiapjtl" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mister0nfp" height="30" width="40" />
+  </a>
+
+ <a href="" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kavya60" height="30" width="40" />
+  </a>
+  <a href="" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mister1729x" height="30" width="40" />
+  </a>
+</p>
 
 <!-- Snake Game Repo View -->
 
