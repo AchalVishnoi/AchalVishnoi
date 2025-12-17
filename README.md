@@ -25,9 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=AchalVishnoi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavya1729&show_icons=true&locale=en&layout=compact" alt="kavya1729" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavya1729&show_icons=true&locale=en" alt="kavya1729" /></p>
-
-<img align="center" src="https://camo.githubusercontent.com/41b6ed288529487db4a9741abfffe405b2f9f8d85d2eb1974cd714add88cef2d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d697474616c62686176796126" alt="mittalkavya" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kavya1729&amp;" style="max-width: 100%;">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
