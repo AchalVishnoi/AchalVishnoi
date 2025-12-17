@@ -5,7 +5,7 @@
 
 <img align="right" alt="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya1729&label=Profile%20views&color=0e75b6&style=flat" alt="kavya1729" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="kavya1729" /> </p>
 
 - 🔭 **I’m currently working on:** Multiplayer Spade game
 - 🌱 **I’m currently learning:** Kotlin Multiplatform and java spring boot development
