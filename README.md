@@ -3,9 +3,9 @@
 <h1 align="center" style="font-size: 3em; font-weight: bold;">Hi 👋, I'm Achal Vishnoi</h1>
 <h3 align="center" style="font-size: 2em; font-weight: bold;">A passionate Kotlin/Java developer and hyper realastic sketch artist from India</h3>
 
-<img align="right" alt="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="kavya1729" /> </p>
+<p align="left"> <img "https://komarev.com/ghpvc/?username=kavya1729&label=Profile%20views&color=0e75b6&style=flat" alt="kavya1729" /> </p>
 
 - 🔭 **I’m currently working on:** Multiplayer Spade game
 - 🌱 **I’m currently learning:** Kotlin Multiplatform and java spring boot development
