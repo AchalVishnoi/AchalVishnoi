@@ -20,7 +20,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="AchalVishnoi" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/artist_achal_vishnoi/" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_kavya1729" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="mr_kavya1729" height="30" width="40" />
   </a>
 
   <a href="https://codeforces.com/profile/AchalVishnoi" target="blank" style="margin-right: 10px;">
