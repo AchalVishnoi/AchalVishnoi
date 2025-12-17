@@ -8,19 +8,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/artist_achal_vishnoi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achalvishnoi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnoiachal174@gmail.com) 
 
-
-## 🔗 A creative developer
-
-Stay updated with the latest my development and art tutorials and projects by subscribing to my YouTube channel and following on Linkedin and Instagram.
-
-[![Achal Vishnoi LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achalvishnoi/)
-[![Achal Vshnoi Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/achal_vishnoi_/)
-[![Artist Achal Vshnoi Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)]([https://www.instagram.com/achal_vishnoi_/](https://www.instagram.com/artist_achal_vishnoi/))
-[![Artist Achal Vishnoi YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Achalvishnoiarts)
-
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -34,10 +21,13 @@ Stay updated with the latest my development and art tutorials and projects by su
 ![](https://nirzak-streak-stats.vercel.app/?user=AchalVishnoi&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalVishnoi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AchalVishnoi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=AchalVishnoi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavya1729&show_icons=true&locale=en&layout=compact" alt="kavya1729" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavya1729&show_icons=true&locale=en" alt="kavya1729" /></p>
+
+<img align="center" src="https://camo.githubusercontent.com/41b6ed288529487db4a9741abfffe405b2f9f8d85d2eb1974cd714add88cef2d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d697474616c62686176796126" alt="mittalkavya" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kavya1729&amp;" style="max-width: 100%;">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
