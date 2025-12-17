@@ -17,7 +17,7 @@
 <h3 align="left" style="font-size: 1.5em; font-weight: bold;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/achalvishnoi/" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mittalkavya" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="AchalVishnoi" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/artist_achal_vishnoi/" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_kavya1729" height="30" width="40" />
