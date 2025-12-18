@@ -7,7 +7,6 @@
 
 - 🔭 **I’m currently working on:** Multiplayer Spade game
 - 🌱 **I’m currently learning:** Kotlin Multiplatform and java spring boot development
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vishnoiachal174@gmail.com
 - ⚡ **Fun fact:** From shading sketches to shaping software, details are my playground
