@@ -23,7 +23,7 @@
   <a href="https://codeforces.com/profile/AchalVishnoi" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr.mittal" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/MrIshuArtist/" target="blank" style="margin-right: 10px;">
+  <a href="" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_kavya1729" height="30" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/vishnoiapjtl" target="blank" style="margin-right: 10px;">
